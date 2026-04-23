@@ -103,11 +103,15 @@ BRICKS-HOME은 ESP32 기반 IoT 디바이스와 모바일 애플리케이션을 
 ---
 
 ## 📥 Download
-<img width="298" height="92" alt="image" src="https://github.com/user-attachments/assets/662bf4f7-226f-4a68-adb1-2d13d9f4388f" />
-- **Google Play Store**  
-👉 `스마트홈EDU` 검색
 
----
+<p align="center">
+  <a href="https://play.google.com/store/search?q=스마트홈EDU&c=apps" target="_blank">
+    <img src="https://github.com/user-attachments/assets/662bf4f7-226f-4a68-adb1-2d13d9f4388f" width="30%">
+  </a>
+</p>
+<p align="center">
+👉 <b>Google Play Store에서 "스마트홈EDU" 검색</b>
+</p>
 
 ## 📌 License
 This project is licensed for educational and research purposes.
