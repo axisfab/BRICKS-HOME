@@ -4,7 +4,8 @@
 > **Wi-Fi 기반 IoT 디바이스와 모바일 앱을 통합한 스마트홈 제어 플랫폼**
 
 <p align="center">
-  <img src="/workspaces/BRICKS-HOME/image-1.png" width="50%">
+<img width="956" height="701" alt="image" src="https://github.com/user-attachments/assets/4ab7b88c-6f98-4381-a706-36fc1a425b19" />
+
 </p>
 
 ---
