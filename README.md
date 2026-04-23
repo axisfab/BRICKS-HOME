@@ -38,7 +38,7 @@ BRICKS-HOME은 ESP32 기반 IoT 디바이스와 모바일 애플리케이션을 
 ## 🧩 System Architecture
 
 <p align="center">
-  <img src="/workspaces/BRICKS-HOME/image.png" width="60%">
+  <img width="1938" height="1014" alt="image" src="https://github.com/user-attachments/assets/552b0b9c-56c9-49fd-ad33-b1d7a6df04df" />
 </p>
 
 ### ✔ 구성 요소
@@ -53,36 +53,26 @@ BRICKS-HOME은 ESP32 기반 IoT 디바이스와 모바일 애플리케이션을 
 ## 🔄 System Flow
 
 <p align="center">
-  <img src="/workspaces/BRICKS-HOME/image_3.png" width="60%">
+<img width="1974" height="1122" alt="image" src="https://github.com/user-attachments/assets/5e340b12-cd10-4bbf-9322-8648f594635b" />
+
 </p>
-
-### ✔ 데이터 흐름
-
----
 
 ## 🔧 Hardware Overview
 
 ### 1) 전체 구성
 <p align="center">
-  <img src="/workspaces/BRICKS-HOME/image_4.png" width="50%">
+  <img width="2708" height="1220" alt="image" src="https://github.com/user-attachments/assets/dfa7fd1d-e9bd-435b-ba17-53af7543cd18" />
+
 </p>
 
 ### 2) 센서 모듈
 <p align="center">
-  <img src="/workspaces/BRICKS-HOME/image_5.png" width="50%">
+  <img width="2614" height="1264" alt="image" src="https://github.com/user-attachments/assets/7caf4742-90a5-4d07-88b7-56b2720a2e96" />
+
 </p>
-
-| 센서 | 기능 |
-|------|------|
-| 온도/습도 | 실내 환경 상태 측정 |
-| 조도 | 밝기 감지 |
-| 가스 | 공기질 및 위험 감지 |
-
----
-
 ### 3) 액추에이터
 <p align="center">
-  <img src="/workspaces/BRICKS-HOME/image_6.png" width="50%">
+ <img width="2614" height="1024" alt="image" src="https://github.com/user-attachments/assets/23753a15-fbe9-4732-b242-5bd4ccc0795b" />
 </p>
 
 | 장치 | 기능 |
@@ -91,13 +81,11 @@ BRICKS-HOME은 ESP32 기반 IoT 디바이스와 모바일 애플리케이션을 
 | 커튼 | 자동 개폐 |
 | 자동문 | 출입 제어 |
 | 에어컨 | 온도 기반 제어 |
-
 ---
 
 ## 📱 Mobile Application (Android)
-
 <p align="center">
-  <img src="/workspaces/BRICKS-HOME/image_7.png" width="50%">
+<img width="1284" height="804" alt="image" src="https://github.com/user-attachments/assets/63d72bfb-566a-4dae-85be-fa3c6690b9d7" />
 </p>
 
 ### ✔ 주요 기능
@@ -115,6 +103,7 @@ BRICKS-HOME은 ESP32 기반 IoT 디바이스와 모바일 애플리케이션을 
 ---
 
 ## 📥 Download
+<img width="298" height="92" alt="image" src="https://github.com/user-attachments/assets/662bf4f7-226f-4a68-adb1-2d13d9f4388f" />
 - **Google Play Store**  
 👉 `스마트홈EDU` 검색
 
