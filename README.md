@@ -28,7 +28,7 @@ BRICKS-HOME은 ESP32 기반 IoT 디바이스와 모바일 애플리케이션을 
 
 | 구분 | 기능 |
 |------|------|
-| 📡 데이터 수집 | 온도, 습도, 조도, 가스 센서 실시간 모니터링 |
+| 📡 데이터 수집 | 온도, 습도, 조도, 가스, 태양광발전량 실시간 모니터링 |
 | 📱 원격 제어 | 조명, 커튼, 자동문, 에어컨 제어 |
 | 🔄 통신 | TCP/IP 기반 양방향 통신 |
 | ⚙️ 자동화 | 조건 기반 자동 제어 (온도/조도 기준) |
@@ -64,15 +64,15 @@ BRICKS-HOME은 ESP32 기반 IoT 디바이스와 모바일 애플리케이션을 
 ### 1) 전체 구성
 <p align="center">
   <img width="2708" height="1220" alt="image" src="https://github.com/user-attachments/assets/dfa7fd1d-e9bd-435b-ba17-53af7543cd18" />
-
 </p>
 
-### 2) 센서 모듈
+### 2) 홈 센서 모듈
 <p align="center">
   <img width="2614" height="1264" alt="image" src="https://github.com/user-attachments/assets/7caf4742-90a5-4d07-88b7-56b2720a2e96" />
 
 </p>
-### 3) 액추에이터
+
+### 3) 홈 엑츄에이터
 <p align="center">
  <img width="2614" height="1024" alt="image" src="https://github.com/user-attachments/assets/23753a15-fbe9-4732-b242-5bd4ccc0795b" />
 </p>
@@ -101,7 +101,6 @@ BRICKS-HOME은 ESP32 기반 IoT 디바이스와 모바일 애플리케이션을 
 - 에어컨 등 가전 원격 제어  
 - 자동/수동 모드 제어  
 - 태양광 및 전력 상태 정보 확인  
-
 ---
 
 ## 📥 Download
