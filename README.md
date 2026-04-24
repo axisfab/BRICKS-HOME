@@ -1,3 +1,4 @@
+<img width="1188" height="882" alt="logo" src="https://github.com/user-attachments/assets/4ee49d16-92ad-4080-bb25-ca2a076b2ea4"width="30% />
 # 🏠 BRICKS-HOME  
 ### BRICKS-ESP 기반 지능형 IoT 스마트홈 시스템  
 
